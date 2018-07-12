@@ -1,0 +1,30 @@
+[01-Aug-2016 05:24:03] PHP Parse error:  syntax error, unexpected '}' in /home1/ourwljco/public_html/beta/application/views/maincontents/package-details-view.php on line 1
+[01-Aug-2016 05:24:08] PHP Parse error:  syntax error, unexpected '}' in /home1/ourwljco/public_html/beta/application/views/maincontents/package-details-view.php on line 1
+[01-Aug-2016 05:24:12] PHP Parse error:  syntax error, unexpected '}' in /home1/ourwljco/public_html/beta/application/views/maincontents/package-details-view.php on line 1
+[24-Aug-2016 05:33:49] PHP Fatal error:  Call to a member function save_data() on a non-object in /home1/projukti/public_html/wbbudgebudgecollege/beta1/application/controllers/admin/Manage_page_content.php on line 373
+[24-Aug-2016 23:48:12] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/projukti/public_html/wbbudgebudgecollege/beta1/application/views/admin/elements/left-sidebar.php on line 119
+[24-Aug-2016 23:48:12] PHP Parse error:  syntax error, unexpected $end in /home1/projukti/public_html/wbbudgebudgecollege/beta1/application/views/admin/elements/left-sidebar.php on line 119
+[19-Dec-2016 02:51:25 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home5/ststwofo/public_html/prohms/application/views/maincontents/employee-profile-view.php on line 110
+[19-Dec-2016 02:51:28 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home5/ststwofo/public_html/prohms/application/views/maincontents/employee-profile-view.php on line 110
+[19-Dec-2016 06:01:58 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home5/ststwofo/public_html/prohms/application/views/maincontents/employee-profile-view.php on line 180
+[19-Dec-2016 23:03:56 America/Denver] PHP Parse error:  syntax error, unexpected '$rows_company' (T_VARIABLE), expecting ',' or ';' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 91
+[19-Dec-2016 23:03:58 America/Denver] PHP Parse error:  syntax error, unexpected '$rows_company' (T_VARIABLE), expecting ',' or ';' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 91
+[19-Dec-2016 23:46:51 America/Denver] PHP Fatal error:  Call to undefined function arrary_sum() in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 212
+[20-Dec-2016 01:23:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 398
+[20-Dec-2016 01:23:11 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 398
+[20-Dec-2016 01:23:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 398
+[20-Dec-2016 01:23:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 398
+[20-Dec-2016 01:35:27 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 217
+[20-Dec-2016 01:35:31 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home5/ststwofo/public_html/prohms/application/views/maincontents/payroll-view.php on line 217
+[21-Dec-2016 03:50:27 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 137
+[21-Dec-2016 03:51:26 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 137
+[21-Dec-2016 03:51:31 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 137
+[21-Dec-2016 03:51:49 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 137
+[21-Dec-2016 03:52:48 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 132
+[21-Dec-2016 03:54:26 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 132
+[21-Dec-2016 03:56:40 America/Denver] PHP Fatal error:  Call to undefined function no_to_words() in /home5/ststwofo/public_html/prohms/application/views/maincontents/salary-statement.php on line 132
+[26-Dec-2016 00:32:57] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'Asia/kolkata' is invalid in /home7/flexproh/public_html/beta/application/config/config.php on line 7
+[26-Dec-2016 00:34:05] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'Asia/calcutta' is invalid in /home7/flexproh/public_html/beta/application/config/config.php on line 7
+[26-Dec-2016 00:34:55] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'Asia/kolkata' is invalid in /home7/flexproh/public_html/beta/application/config/config.php on line 7
+[29-Dec-2016 11:23:16] PHP Parse error:  syntax error, unexpected $end in /home7/flexproh/public_html/beta/application/views/maincontents/add-edit-employee-office-view.php on line 335
+[02-Jan-2017 22:24:13] PHP Parse error:  syntax error, unexpected $end in /home7/flexproh/public_html/beta/application/controllers/User.php on line 90

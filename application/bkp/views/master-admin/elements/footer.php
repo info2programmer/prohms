@@ -1,0 +1,1 @@
+&copy; <?php echo date("Y"); ?> PROHRM. Human Resource and Payroll Management by <a href="http://projukti.info/" target="_blank">Projukti</a>. All Rights Reserved.
